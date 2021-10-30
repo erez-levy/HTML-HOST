@@ -1,8 +1,8 @@
 
 ## 1. Introduction
 
-- [1. Who should take this course](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/)
-- [2. Course Overview - Grokking the Coding Interview_ Patterns for Coding Questions](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/)
+- [1. Who should take this course](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/1.%20Introduction/1%20Who%20should%20take%20this%20course.html)
+- [2. Course Overview - Grokking the Coding Interview_ Patterns for Coding Questions](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/1.%20Introduction/2%20Course%20Overview%20-%20Grokking%20the%20Coding%20Interview_%20Patterns%20for%20Coding%20Questions.html)
 
 
 ## 2. Pattern Sliding Window
@@ -204,4 +204,4 @@
 
 ## 19. Conclusions
 
-- [Where to Go from Now](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/19. Conclusions/Where to Go from Here - Grokking the Coding Interview_ Patterns for Coding Questions)
+- [Where to Go from Now](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/19.%20Conclusions/Where%20to%20Go%20from%20Here%20-%20Grokking%20the%20Coding%20Interview_%20Patterns%20for%20Coding%20Questions)
