@@ -215,26 +215,6 @@
 
 ## Basic
 
-- [1.System Design Interviews_ A step by step guide ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/1.System%20Design%20Interviews_%20A%20step%20by%20step%20guide%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [2.Designing a URL Shortening service like TinyURL ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/2.Designing%20a%20URL%20Shortening%20service%20like%20TinyURL%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [3.Designing Pastebin ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/3.Designing%20Pastebin%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [4.Designing Instagram ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/4.Designing%20Instagram%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [5.Designing Dropbox ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/5.Designing%20Dropbox%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [6.Designing Facebook Messenger ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/6.Designing%20Facebook%20Messenger%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [7.Designing Twitter ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/7.Designing%20Twitter%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [8.Designing Youtube or Netflix ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/8.Designing%20Youtube%20or%20Netflix%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [9.Designing Typeahead Suggestion ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/9.Designing%20Typeahead%20Suggestion%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [10.Designing an API Rate Limiter ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/10.Designing%20an%20API%20Rate%20Limiter%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [11.Designing Twitter Search ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/11.Designing%20Twitter%20Search%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [12.Designing a Web Crawler ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/12.Designing%20a%20Web%20Crawler%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [13.Designing Facebook’s Newsfeed ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/13.Designing%20Facebook’s%20Newsfeed%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [14.Designing Yelp or Nearby Friends ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/14.Designing%20Yelp%20or%20Nearby%20Friends%20-%20Grokking%20the%20System%20Design%20Interview%20(1).html)
-- [15.Designing Uber backend ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/15.Designing%20Uber%20backend%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [16.Designing Ticketmaster ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/16.Designing%20Ticketmaster%20-%20Grokking%20the%20System%20Design%20Interview.html)
-- [17.Additional Resources ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/17.Additional%20Resources%20-%20Grokking%20the%20System%20Design%20Interview.html)
-
-## Examples
-
 - [1.System Design Basics ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/1.System%20Design%20Basics%20-%20Grokking%20the%20System%20Design%20Interview.html)
 - [2.Key Characteristics of Distributed Systems ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/2.Key%20Characteristics%20of%20Distributed%20Systems%20-%20Grokking%20the%20System%20Design%20Interview.html)
 - [3.Load Balancing ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/3.Load%20Balancing%20-%20Grokking%20the%20System%20Design%20Interview.html)
@@ -252,4 +232,26 @@
 - [16.Leader and Follower (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/16.Leader%20and%20Follower%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
 - [17.Heartbeat (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/17.Heartbeat%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
 - [18.Checksum (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/18.Checksum%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+
+
+
+## Examples
+
+- [1.System Design Interviews_ A step by step guide ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/1.System%20Design%20Interviews_%20A%20step%20by%20step%20guide%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [2.Designing a URL Shortening service like TinyURL ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/2.Designing%20a%20URL%20Shortening%20service%20like%20TinyURL%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [3.Designing Pastebin ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/3.Designing%20Pastebin%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [4.Designing Instagram ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/4.Designing%20Instagram%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [5.Designing Dropbox ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/5.Designing%20Dropbox%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [6.Designing Facebook Messenger ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/6.Designing%20Facebook%20Messenger%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [7.Designing Twitter ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/7.Designing%20Twitter%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [8.Designing Youtube or Netflix ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/8.Designing%20Youtube%20or%20Netflix%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [9.Designing Typeahead Suggestion ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/9.Designing%20Typeahead%20Suggestion%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [10.Designing an API Rate Limiter ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/10.Designing%20an%20API%20Rate%20Limiter%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [11.Designing Twitter Search ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/11.Designing%20Twitter%20Search%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [12.Designing a Web Crawler ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/12.Designing%20a%20Web%20Crawler%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [13.Designing Facebook’s Newsfeed ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/13.Designing%20Facebook’s%20Newsfeed%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [14.Designing Yelp or Nearby Friends ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/14.Designing%20Yelp%20or%20Nearby%20Friends%20-%20Grokking%20the%20System%20Design%20Interview%20(1).html)
+- [15.Designing Uber backend ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/15.Designing%20Uber%20backend%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [16.Designing Ticketmaster ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/16.Designing%20Ticketmaster%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [17.Additional Resources ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/17.Additional%20Resources%20-%20Grokking%20the%20System%20Design%20Interview.html)
 
