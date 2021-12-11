@@ -1,4 +1,6 @@
 
+# Code Interview
+
 ## 1. Introduction
 
 - [1. Who should take this course](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/1.%20Introduction/1%20Who%20should%20take%20this%20course.html)
@@ -205,3 +207,49 @@
 ## 19. Conclusions
 
 - [Where to Go from Now](http://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/19.%20Conclusions/Where%20to%20Go%20from%20Here%20-%20Grokking%20the%20Coding%20Interview_%20Patterns%20for%20Coding%20Questions)
+
+
+
+
+# System Design
+
+## Basic
+
+- [1.System Design Interviews_ A step by step guide ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/1.System%20Design%20Interviews_%20A%20step%20by%20step%20guide%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [2.Designing a URL Shortening service like TinyURL ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/2.Designing%20a%20URL%20Shortening%20service%20like%20TinyURL%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [3.Designing Pastebin ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/3.Designing%20Pastebin%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [4.Designing Instagram ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/4.Designing%20Instagram%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [5.Designing Dropbox ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/5.Designing%20Dropbox%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [6.Designing Facebook Messenger ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/6.Designing%20Facebook%20Messenger%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [7.Designing Twitter ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/7.Designing%20Twitter%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [8.Designing Youtube or Netflix ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/8.Designing%20Youtube%20or%20Netflix%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [9.Designing Typeahead Suggestion ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/9.Designing%20Typeahead%20Suggestion%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [10.Designing an API Rate Limiter ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/10.Designing%20an%20API%20Rate%20Limiter%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [11.Designing Twitter Search ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/11.Designing%20Twitter%20Search%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [12.Designing a Web Crawler ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/12.Designing%20a%20Web%20Crawler%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [13.Designing Facebook’s Newsfeed ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/13.Designing%20Facebook’s%20Newsfeed%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [14.Designing Yelp or Nearby Friends ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/14.Designing%20Yelp%20or%20Nearby%20Friends%20-%20Grokking%20the%20System%20Design%20Interview%20(1).html)
+- [15.Designing Uber backend ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/15.Designing%20Uber%20backend%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [16.Designing Ticketmaster ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/16.Designing%20Ticketmaster%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [17.Additional Resources ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/System%20Design%20Problems/17.Additional%20Resources%20-%20Grokking%20the%20System%20Design%20Interview.html)
+
+## Examples
+
+- [1.System Design Basics ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/1.System%20Design%20Basics%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [2.Key Characteristics of Distributed Systems ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/2.Key%20Characteristics%20of%20Distributed%20Systems%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [3.Load Balancing ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/3.Load%20Balancing%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [4.Caching ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/4.Caching%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [5.Data Partitioning ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/5.Data%20Partitioning%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [6.Indexes ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/6.Indexes%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [7.Proxies ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/7.Proxies%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [9. SQL vs. NoSQL ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/9.%20SQL%20vs.%20NoSQL%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [10. CAP Theorem ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/10.%20CAP%20Theorem%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [11.PACELC Theorem (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/11.PACELC%20Theorem%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [12.Consistent Hashing (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/12.Consistent%20Hashing%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [13.Long](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/13.Long-Polling%20vs%20WebSockets%20vs%20Server-Sent%20Events%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [14.Bloom Filters (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/14.Bloom%20Filters%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [15.Quorum (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/15.Quorum%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [16.Leader and Follower (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/16.Leader%20and%20Follower%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [17.Heartbeat (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/17.Heartbeat%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+- [18.Checksum (New) ](https://htmlpreview.github.io/?https://github.com/cpdm30/HTML-HOST/blob/master/Glossary%20of%20System%20Design%20Basics/18.Checksum%20(New)%20-%20Grokking%20the%20System%20Design%20Interview.html)
+
